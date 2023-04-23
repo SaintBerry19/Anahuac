@@ -1,0 +1,198 @@
+,0,1,2,3,4,5
+0,Country,< $1.90[4],< $3.20[5],< $5.50[6],Year,Continent
+1,Afghanistan,,,,,Asia
+2,Albania,1.1%,7.7%,39.1%,2012,Europe
+3,Algeria,0.5%,3.9%,29.2%,2011,Africa
+4,Andorra,,,,,Europe
+5,Angola,30.1%,55.7%,79.4%,2008,Africa
+6,Antigua and Barbuda,,,,,North America
+7,Argentina,0.4%,2.0%,7.1%,2017,South America
+8,Armenia,1.4%,12.3%,50.0%,2017,Europe
+9,Australia,0.7%,1.0%,1.2%,2014,Oceania
+10,Austria,0.7%,0.7%,0.9%,2015,Europe
+11,Azerbaijan,0.0%,0.0%,8.2%,2005,Europe
+12,"Bahamas, The",,,,,North America
+13,Bahrain,,,,,Asia
+14,Bangladesh,14.8%,52.9%,84.5%,2016,Asia
+15,Barbados,,,,,North America
+16,Belarus,0.0%,0.0%,0.8%,2017,Europe
+17,Belgium,0.0%,0.2%,0.2%,2015,Europe
+18,Belize,13.9%,28.1%,53.0%,1999,North America
+19,Benin,49.5%,76.2%,90.6%,2015,Africa
+20,Bhutan,1.5%,12.0%,38.6%,2017,Asia
+21,Bolivia,5.8%,11.8%,24.7%,2017,South America
+22,Bosnia and Herzegovina,0.1%,0.8%,3.9%,2011,Europe
+23,Botswana,16.1%,38.5%,60.4%,2015,Africa
+24,Brazil,4.8%,9.6%,21.0%,2017,South America
+25,Brunei,,,,,Asia
+26,Bulgaria,1.5%,3.7%,8.7%,2014,Europe
+27,Burkina Faso,43.7%,76.4%,92.3%,2014,Africa
+28,Burundi,71.8%,89.3%,96.8%,2013,Africa
+29,Cambodia,,,,,Asia
+30,Cameroon,23.8%,44.7%,68.9%,2014,Africa
+31,Canada,0.5%,0.5%,1.0%,2013,North America
+32,Cape Verde,8.1%,26.5%,53.1%,2007,Africa
+33,Central African Republic,66.3%,83.1%,92.8%,2008,Africa
+34,Chad,38.4%,66.5%,86.2%,2011,Africa
+35,Chile,0.7%,1.8%,6.4%,2017,South America
+36,China,11.5%,7.0%,27.2%,2015,Asia
+37,Colombia,3.9%,10.8%,27.6%,2017,South America
+38,Comoros,17.9%,37.5%,62.7%,2013,Africa
+39,"Congo, Democratic Republic of the",76.6%,91.0%,97.7%,2012,Africa
+40,"Congo, Republic of the",37.0%,61.3%,82.4%,2011,Africa
+41,Costa Rica,1.0%,2.7%,9.7%,2017,North America
+42,Croatia,0.7%,1.2%,5.5%,2015,Europe
+43,Cuba,,,,,North America
+44,Cyprus,0.0%,0.0%,0.2%,2015,Europe
+45,Czech Republic,0.0%,0.0%,0.4%,2015,Europe
+46,Denmark,0.2%,0.2%,0.5%,2015,Europe
+47,Djibouti,17.1%,40.2%,70.6%,2017,Africa
+48,Dominica,,,,,North America
+49,Dominican Republic,1.6%,5.9%,19.9%,2016,North America
+50,East Timor,30.7%,73.3%,94.0%,2014,Asia
+51,Ecuador,3.2%,8.7%,23.2%,2017,South America
+52,Egypt,1.3%,16.1%,61.9%,2015,Africa
+53,El Salvador,1.9%,8.5%,29.0%,2017,North America
+54,Equatorial Guinea,,,,,Africa
+55,Eritrea,,,,,Africa
+56,Estonia,0.5%,1.0%,2.0%,2015,Europe
+57,Eswatini,42.0%,64.4%,82.0%,2009,Africa
+58,Ethiopia,27.3%,62.2%,85.0%,2015,Africa
+59,Fiji,1.4%,14.1%,48.6%,2013,Oceania
+60,Finland,0.0%,0.0%,0.2%,2015,Europe
+61,France,0.0%,0.2%,0.2%,2015,Europe
+62,Gabon,3.4%,11.2%,32.2%,2017,Africa
+63,"Gambia, The",10.1%,37.8%,72.5%,2015,Africa
+64,Georgia,5.0%,16.3%,43.6%,2017,Europe
+65,Germany,0.0%,0.0%,0.2%,2015,Europe
+66,Ghana,13.3%,30.5%,56.9%,2016,Africa
+67,Greece,1.5%,2.7%,6.7%,2015,Europe
+68,Grenada,,,,,North America
+69,Guatemala,8.7%,24.2%,48.8%,2014,North America
+70,Guinea,35.3%,70.3%,92.3%,2012,Africa
+71,Guinea-Bissau,67.1%,84.5%,93.4%,2010,Africa
+72,Guyana,14.0%,29.5%,56.4%,1998,South America
+73,Haiti,25.0%,50.8%,78.9%,2012,North America
+74,Honduras,17.2%,31.6%,52.6%,2017,North America
+75,Hungary,0.5%,1.0%,2.7%,2015,Europe
+76,Iceland,0.0%,0.0%,0.2%,2014,Europe
+77,India,21.2%[7],60%,87%,2011,Asia
+78,Indonesia,5.7%,27.3%,58.7%,2017,Asia
+79,Iran,0.3%,2.5%,11.6%,2016,Asia
+80,Iraq,2.5%,17.9%,57.3%,2012,Asia
+81,Ireland,0.2%,0.5%,0.7%,2015,Europe
+82,Israel,0.2%,0.7%,2.7%,2016,Asia
+83,Italy,2.0%,2.5%,3.5%,2015,Europe
+84,Ivory Coast,28.2%,57.4%,82.3%,2015,Africa
+85,Jamaica,1.7%,9.1%,29.7%,2004,North America
+86,Japan,0.2%,0.5%,1.0%,2008,Asia
+87,Jordan,0.1%,2.1%,18.1%,2010,Asia
+88,Kazakhstan,0.0%,0.4%,8.6%,2017,"Asia, Europe"
+89,Kenya,36.8%,66.2%,86.5%,2015,Africa
+90,Kiribati,12.9%,34.6%,69.4%,2006,Oceania
+91,"Korea, North",,,,,Asia
+92,"Korea, South",0.2%,0.5%,1.2%,2012,Asia
+93,Kosovo,0.2%,2.6%,21.6%,2017,Europe
+94,Kuwait,,,,,Asia
+95,Kyrgyzstan,1.5%,19.6%,66.4%,2017,Asia
+96,Laos,22.7%,58.7%,85.0%,2012,Asia
+97,Latvia,0.7%,1.5%,4.0%,2015,Europe
+98,Lebanon,0.0%,0.0%,1.9%,2011,Asia
+99,Lesotho,59.7%,78.1%,89.9%,2010,Africa
+100,Liberia,40.9%,72.6%,92.2%,2016,Africa
+101,Libya,,,,,Africa
+102,Liechtenstein,,,,,Europe
+103,Lithuania,0.7%,1.5%,4.2%,2015,Europe
+104,Luxembourg,0.2%,0.5%,0.5%,2015,Europe
+105,Madagascar,77.6%,91.0%,97.3%,2012,Africa
+106,Malawi,70.3%,89.4%,96.7%,2016,Africa
+107,Malaysia,0.0%,0.2%,2.7%,2015,Asia
+108,Maldives,7.3%,24.4%,54.3%,2009,Asia
+109,Mali,49.7%,79.3%,94.9%,2009,Africa
+110,Malta,0.0%,0.2%,0.2%,2015,Europe
+111,Marshall Islands,,,,,Oceania
+112,Mauritania,6.0%,24.1%,58.8%,2014,Africa
+113,Mauritius,0.5%,3.2%,18.1%,2012,Africa
+114,Mexico,2.5%,11.2%,34.8%,2016,North America
+115,Micronesia,15.4%,38.7%,69.1%,2013,Oceania
+116,Moldova,0.1%,1.1%,16.3%,2017,Europe
+117,Monaco,,,,,Europe
+118,Mongolia,0.6%,6.9%,32.0%,2016,Asia
+119,Montenegro,0.0%,0.8%,4.8%,2014,Europe
+120,Morocco,1.0%,7.7%,31.3%,2013,Africa
+121,Mozambique,62.4%,81.5%,91.8%,2014,Africa
+122,Myanmar,6.2%,29.5%,67.2%,2015,Asia
+123,Namibia,13.4%,29.6%,50.1%,2015,Africa
+124,Nauru,,,,,Oceania
+125,Nepal,15.0%,50.8%,83.0%,2010,Asia
+126,Netherlands,0.0%,0.2%,0.5%,2015,Europe
+127,New Zealand,,,,,Oceania
+128,Nicaragua,3.2%,12.8%,34.8%,2014,North America
+129,Niger,44.5%,76.9%,93.4%,2014,Africa
+130,Nigeria,53.5%,77.6%,92.1%,2009,Africa
+131,North Macedonia,5.2%,9.7%,23.1%,2015,Europe
+132,Norway,0.2%,0.2%,0.2%,2015,Europe
+133,Oman,,,,,Asia
+134,Pakistan,3.9%,35% [8],75%,2013,Asia
+135,Palau,,,,,Oceania
+136,Palestine,1.0%,3.4%,23.6%,2016,Asia
+137,Panama,2.5%,6.3%,14.1%,2017,North America
+138,Papua New Guinea,38.0%,65.6%,86.9%,2009,Oceania
+139,Paraguay,1.2%,5.6%,18.6%,2017,South America
+140,Peru,3.4%,9.8%,23.9%,2017,South America
+141,Philippines,6.1%,26.0%,55.1%,2015,Asia
+142,Poland,0.0%,0.1%,2.1%,2016,Europe
+143,Portugal,0.5%,1.2%,3.0%,2015,Europe
+144,Qatar,,,,,Asia
+145,Romania,5.7%,13.2%,25.7%,2015,Europe
+146,Russia,0.0%,0.3%,2.7%,2015,"Asia, Europe"
+147,Rwanda,55.5%,79.7%,91.6%,2016,Africa
+148,Saint Kitts and Nevis,,,,,North America
+149,Saint Lucia,4.7%,10.6%,20.3%,2016,North America
+150,Saint Vincent and the Grenadines,,,,,North America
+151,Samoa,1.1%,9.6%,33.9%,2013,Oceania
+152,San Marino,,,,,Europe
+153,São Tomé and Príncipe,32.3%,70.1%,92.3%,2010,Africa
+154,Saudi Arabia,,,,,Asia
+155,Senegal,38.0%,67.5%,88.1%,2011,Africa
+156,Serbia,0.1%,1.1%,7.4%,2015,Europe
+157,Seychelles,1.1%,2.5%,6.6%,2013,Africa
+158,Sierra Leone,52.2%,81.3%,94.7%,2011,Africa
+159,Singapore,,,,,Asia
+160,Slovakia,0.7%,1.0%,3.0%,2015,Europe
+161,Slovenia,0.0%,0.0%,0.2%,2015,Europe
+162,Solomon Islands,25.1%,58.8%,84.7%,2013,Oceania
+163,Somalia,,,,,Africa
+164,South Africa,18.9%,37.6%,57.1%,2014,Africa
+165,South Sudan,42.7%,64.8%,84.8%,2009,Africa
+166,Spain,1.0%,1.5%,2.9%,2015,Europe
+167,Sri Lanka,0.8%,10.9%,40.5%,2016,Asia
+168,Sudan,14.9%,40.5%,73.2%,2009,Africa
+169,Suriname,23.4%,42.8%,55.7%,1999,South America
+170,Sweden,0.5%,0.7%,1.0%,2015,Europe
+171,Switzerland,0.0%,0.0%,0.0%,2015,Europe
+172,Syria,1.7%,15.3%,50.4%,2004,Asia
+173,Tajikistan,4.8%,20.3%,54.2%,2015,Asia
+174,Tanzania,49.1%,79.0%,93.1%,2011,Africa
+175,Thailand,0.0%,0.5%,7.8%,2017,Asia
+176,Togo,49.2%,73.2%,90.1%,2015,Africa
+177,Tonga,1.0%,7.5%,27.5%,2015,Asia
+178,Trinidad and Tobago,3.4%,13.1%,32.9%,1992,South America
+179,Tunisia,0.3%,3.2%,18.3%,2015,Africa
+180,Turkey,0.2%,1.8%,9.9%,2016,"Asia, Europe"
+181,Turkmenistan,51.4%,77.8%,92.5%,1998,Asia
+182,Tuvalu,3.3%,17.6%,46.7%,2010,Oceania
+183,Uganda,41.7%,69.9%,87.8%,2016,Africa
+184,Ukraine,0.1%,0.5%,6.4%,2016,Europe
+185,United Arab Emirates,,,,,Asia
+186,United Kingdom,0.2%,0.2%,0.7%,2015,Europe
+187,United States,1.2%,1.5%,2.0%,2016,North America
+188,Uruguay,0.1%,0.4%,2.9%,2017,South America
+189,Uzbekistan,62.1%,86.4%,96.4%,2003,Asia
+190,Vanuatu,13.1%,39.2%,72.3%,2010,Oceania
+191,Vatican City,,,,,Europe
+192,Venezuela,10.2%,17.8%,35.6%,2006,South America
+193,Vietnam,2.0%,8.4%,29.0%,2016,Asia
+194,Yemen,18.8%,52.2%,81.6%,2014,Asia
+195,Zambia,57.5%,74.3%,87.2%,2015,Africa
+196,Zimbabwe,21.4%,47.2%,74.0%,2011,Africa
