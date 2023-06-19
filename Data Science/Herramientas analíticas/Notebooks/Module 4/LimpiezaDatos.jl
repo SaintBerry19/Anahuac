@@ -6,7 +6,7 @@ ENV["COLUMNS"] = 250;
 column_names = ["age","workclass","fnlwgt","education","educationnum","maritalstatus","occupation","relationship","race","sex","capitalgain","capitalloss","hoursperweek","nativecountry", "mas50"]
 ;
 
-df = DataFrame(CSV.File("C:\\Users\\User\\Desktop\\No games\\Diplomado\\Anahuac\\Data Science\\Herramientas analíticas\\Notebooks\\Material 1_7_2\\adult.data.txt", 
+df = DataFrame(CSV.File("/adult.data.txt", 
         header = column_names,
         missingstring=["NA", "na", "n/a", "missing", "?"],
         delim=", "))
