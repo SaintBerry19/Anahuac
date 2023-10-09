@@ -1,0 +1,74 @@
+class Carrera:
+    def __init__(self, cve_carrera, desc_carrera):
+        self.cve_carrera = cve_carrera
+        self.desc_carrera = desc_carrera
+
+    def __str__(self):
+        return self.desc_carrera
+
+
+class Alumno:
+    def __init__(self, no_control, nombre, genero, carrera):
+        self.no_control = no_control
+        self.nombre = nombre
+        self.genero = genero
+        self.carrera = carrera
+
+    def __str__(self):
+        return f"{self.no_control}, {self.nombre}, {self.carrera}"
+
+
+def registro():
+    carreras = []
+    alumnos = []
+
+    while True:
+        print("\n--- Menú ---")
+        print("1. Agregar carreras")
+        print("2. Agregar alumnos")
+        print("3. Listar alumnos")
+        print("4. Salir")
+        opcion = input("Elige una opción: ")
+
+        if opcion == "1":
+            cve_carrera = input("Introduce la clave de la carrera: ")
+            desc_carrera = input("Introduce la descripción de la carrera: ")
+            if not cve_carrera or not desc_carrera:
+                print("Por favor, llena todos los campos.")
+                continue
+            carreras.append(Carrera(cve_carrera, desc_carrera))
+
+        elif opcion == "2":
+            if not carreras:
+                print("Primero agrega al menos una carrera.")
+                continue
+            no_control = input("Introduce el número de control: ")
+            nombre = input("Introduce el nombre del alumno: ")
+            genero = input("Introduce el género del alumno: ")
+            print("\nCarreras disponibles:")
+            for i, carrera in enumerate(carreras):
+                print(f"{i}. {carrera}")
+            indice_carrera = int(input("Elige el índice de la carrera: "))
+            if not no_control or not nombre or not genero:
+                print("Por favor, llena todos los campos.")
+                continue
+            alumnos.append(Alumno(no_control, nombre, genero, carreras[indice_carrera]))
+
+        elif opcion == "3":
+            if not alumnos:
+                print("No hay alumnos registrados.")
+                continue
+            print("\nLista de alumnos:")
+            for alumno in alumnos:
+                print(alumno)
+
+        elif opcion == "4":
+            print("Hasta luego!")
+            break
+
+        else:
+            print("Opción inválida. Intenta de nuevo.")
+
+
+if __name__ == "__main__":
+    registro()
